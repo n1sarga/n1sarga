@@ -3,3 +3,5 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=n1sarga&theme=github-dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=n1sarga&theme=dark)
+
+- 💼 [LinkedIn](https://linkedin.com/in/n1sarga)
